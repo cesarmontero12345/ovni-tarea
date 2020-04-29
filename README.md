@@ -1,2 +1,111 @@
-# ovni-tarea
-Es un apagina de ovnis para mi tarea de mi capacitacion
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>O V N I</title>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="LETRAS.CSS">
+    <link rel="stylesheet" href="IMAGEN.CSS">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <header>
+		 
+		<nav>
+			<ul>
+			
+				<li><a href="CSS/OVNI.HTML"><span class="icon-house"></span><b>T I P O S</b></a></li>
+				
+				<li class="submenu">
+					<a href="css/VEAMOSLO.HTML"><span class="icon-rocket"></span><b>V E A M O S L O</b></a>
+					
+						
+				
+				</li>
+	</ul>
+		</nav>
+	</header>
+
+<body>
+    <header>
+        <div class="container-header">
+            <div class="logo-title">
+                <img src="image/FOTO11.png" alt="">
+                <h4>OVNIS</h4>
+            </div>
+            <label class="icon-menu"></label>
+        </div>
+    </header>
+    
+    <div class="container-portada">
+        <div class="capa-gradient"></div>
+       
+           
+    <body>
+    <div class="details">
+        <h1>B I E N V E N I D O S</h1>
+        <P>En esta pagina te informara acerca de la existencia de los ovnis
+te hara dudar de tu propia existencia y hara que te preguntes si vivimos solos en el planeta
+</P>
+  
+    </div>
+
+
+
+</body>
+
+
+<body >
+           
+      <div class="contenedor">
+         <h1 CLASS="titulo">
+            ¿ Q U E -  S I G N I F I C A ?
+         </h1>
+            <center> 
+              <img src="alien.jpg">
+<h2>          A L I E N S </h2>
+       </center>
+           <P>El fenómeno OVNI ha atraído la atención de mucha gente a lo largo de la historia moderna, hay quienes opinan que se trata de naves de otros planetas que visitan la Tierra, mientras que otros opinan que se tratan de aeronaves terrestres.</P>
+                
+
+<p>El termino OVNI es el acrónimo de Objeto Volador No Identificado, y es utilizado para definir objetos voladores, sean reales o aparentes, que no pueden ser identificados por el observador.</p>
+
+
+<p>Organismos gubernamentales alrededor del mundo investigan este tipo de avistamientos en busca de vuelos no autorizados en el cielo de cada país.
+
+Un ejemplo de esto es el reciente anuncio realizado por la marina estadounidense, quienes buscan hacer un registro de avistamientos hechos por militares.</p>
+      </div>
+  
+  
+    <div class="container-all">
+        <h1>H I S T O R I A</h1>
+    <img src="12345.gif" align="right">
+    
+   <h3><p>
+        No existe acuerdo respecto al momento en que comenzó la historia de los ovnis. Para Ted Wilding-White, J. J. Benítez, Erich von Däniken o Jacques Vallée los avistamientos de objetos sin identificar se remontan tanto como historia tiene la Humanidad. Para autores como Ricardo Campo, Luis Alfonso Gámez o Carl Sagan es un mito contemporáneo que comienza a finales de los años cuarenta.
+   Los avistamientos de platillos volantes comenzaron cuando la ingeniería había logrado ya un nivel suficiente como para desarrollar motores de reacción, misiles con alcances estratosféricos e ingenios nucleares. Lo que, para escritores como Luis Alfonso Gámez, sugiere un origen humano producto de aquella época. La idea de estar ante un mito de la era espacial.
+   Asimismo señala que, si estos vehículos aéreos estuvieran tripulados, se produciría igualmente el contacto con los eventuales seres extraterrestres, quienes transmitirían a los observadores enseñanzas diversas. Según estas teorías, el origen de muchas de las civilizaciones del pasado (Egipto, Babilonia, etc.) sería extraterrestre, o al menos, las tecnologías para realizar sus obras serían de origen o inspiración extraterrestre.[cita requerida]
+
+Es necesario reseñar que personas expertas en Egipto y Asiria, como la egiptóloga de la Universidad Complutense de Madrid Mara Castillo Mallén, advierten que los autores como von Däniken no son egiptólogos ni asiriólogos, tampoco son arqueólogos y algunos no son licenciados; por lo tanto, afirmaciones como las anteriores deben ser tenidas como meras especulaciones. No existen dudas sobre la procedencia del pueblo egipcio ni los muchos que poblaron Mesopotamia, ni se aprecia un salto tecnológico en algún momento comprendido entre la construcción de las primeras mastabas hasta los templos del Imperio Nuevo que hagan suponer una transferencia tecnológica, ni se ha encontrado ningún registro de contactos con civilizaciones extraterrestres.Otros autores, como Luis Alfonso Gámez o Benjamin Radford, mantienen que las conjeturas de Däniken y otros contienen, además de una gran ignorancia sobre la historia antigua, una postura insultante y hasta racista contra esos pueblos, al no dudar de que los romanos pudiesen construir el Coliseo y los griegos el Templo de Artemisa, pero sí hacerlo cuando los ejecutores fueron otros humanos no europeos.
+
+Benítez propuso en su libro Los astronautas de Yavé que una serie de extraterrestres entrenaron a Moisés en el monte Sinaí en distintas técnicas, se ocuparon de ofrecerle asesoramiento, cuidaron y alimentaron a los padres de la Virgen María, se aparecieron a San José, los Reyes Magos o fueron los encargados de realizar la Anunciación. Como en el caso de Däniken, el autor español no aporta ninguna prueba documental o arqueológica de dichos supuestos.
+
+Por su parte, Vallée mantenía que ha existido una vieja tradición de seres fantásticos como las ninfas, sílfides, duendes o hadas, que cometían raptos de personas para llevarlas a lugares que los relatos denominaban Magonia, pero también Ávalon y otras geografías míticas. Según el autor francés, esos cuentos eran la forma que tenían aquellas personas para explicar encuentros cercanos, raptos y abducciones llevados a cabo por seres extraterrestres. Como en el caso de las conjeturas vertidas por Däniken, esta hipótesis no deja de ser una explicación ad hoc e innecesaria, pues existe otra mucho más sencilla. Las nubes, las hadas o los carros de fuego podrían ser metáforas empleadas en los relatos religiosos, sin ninguna evidencia de que dichos relatos deban ser interpretados más que de una forma mítica. Así pues, dichas narraciones no constituyen una prueba empírica para saber si ocurrieron los hechos así o no, es decir, sostener que se trata de naves extraterrestres podría ser un argumento ad ignorantiam.
+
+Durante la Edad Media aumentaron, si cabe, los problemas para realizar registros escritos de sucesos cotidianos. Esto fue debido al ligero crecimiento del índice de analfabetismo y a los cortes periódicos que los musulmanes practicaban al suministro de papiro con destino a Europa, por lo que solo quedaban los pergaminos como soporte para escribir, de mejor calidad, pero mucho más escasos. Para Ted Wilding-White los avistamientos no se pudieron recoger hasta la publicación de los primeros periódicos. Antes, prosigue Wilding-White, las narraciones de sucesos aéreos desconocidos solo podían ser preservadas para lecturas posteriores por personas que supieran y pudieran escribirlas. En Europa Occidental esta facultad quedaba reservada a los monjes en los monasterios, por lo que se reducía mucho el espacio observable. El autor recoge siete casos acaecidos entre el 1 de enero de 1254 y el 13 de noviembre de 1833.
+   </p></h3>
+    
+    </div>
+    
+    <a href="mas....html"><p>Más...</p></a>
+</body>
+ 
+	<center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=280055"></a><br>	 
+<body>
+    
+
+</body>
+</head>
+</html>
